@@ -1,0 +1,5 @@
+boto3==1.42.93
+awswrangler==3.16.0
+pandas==2.1.0
+pyarrow==13.0.0
+pyyaml==6.0.1
