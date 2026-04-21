@@ -22,13 +22,13 @@ Kaggle Dataset → S3 Raw Layer → S3 Processed Layer → S3 Curated Layer → 
 ## AWS Console Screenshots
 
 ### S3 Bucket - 3 Layer Architecture
-![S3 Bucket](Lakehouse_ss/Screenshot_2026-04-21_182527.png)
+![S3 Bucket](Lakehouse_ss/Screenshot%202026-04-21%20182527.png)
 
 ### S3 Raw Layer - 7 Datasets
-![S3 Raw](Lakehouse_ss/Screenshot_2026-04-21_183043.png)
+![S3 Raw](Lakehouse_ss/Screenshot%202026-04-21%20183043.png)
 
 ### Athena Query Results
-![Athena](Lakehouse_ss/Screenshot_2026-04-21_183802.png)
+![Athena](Lakehouse_ss/Screenshot%202026-04-21%20183802.png)
 
 ---
 
