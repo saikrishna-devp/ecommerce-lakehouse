@@ -1,0 +1,16 @@
+aws:
+  bucket: saikrishna-ecommerce-lakehouse
+  region: us-east-1
+  raw_prefix: raw/
+  processed_prefix: processed/
+  curated_prefix: curated/
+
+athena:
+  database: ecommerce_db
+  output_location: s3://saikrishna-ecommerce-lakehouse/athena-results/
+
+pipeline:
+  data_dir: data/
+  raw_dir: data/raw/
+  processed_dir: data/processed/
+  curated_dir: data/curated/
